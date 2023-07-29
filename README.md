@@ -119,6 +119,6 @@ In this graph, the data points appear less scattered compared to the linear regr
 With a regression score of 0.96, the random forest model demonstrates higher accuracy in predicting the data compared to the linear regression model. The score of 0.96 means that the random forest model can correctly predict approximately 96% of the data points. This indicates a significantly better performance than the linear regression model, making the random forest model highly effective in this context.
 ## Contributions
 
-We welcome contributions, feedback, and suggestions to improve this project. If you have ideas for enhancements or bug fixes, feel free to open an issue or submit a pull request.
+I welcome contributions, feedback, and suggestions to improve this project. If you have ideas for enhancements or bug fixes, feel free to open an issue or submit a pull request.
 
-We hope this project inspires you to explore the endless possibilities of Machine Learning and predictive modeling. Happy coding!
+I hope this project inspires you to explore the endless possibilities of Machine Learning and predictive modeling. Happy coding!
