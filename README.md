@@ -37,7 +37,7 @@ I invite you to explore our code, datasets, and detailed documentation to gain v
 - Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn
 ## Data Before Preprocessing and their R-Square values
 
-![](https://github.com/Wasif-Allvi/Home-Rent-Prediction/assets/45194832/9733ca21-01b8-4d17-8da1-4bc96bc64850)
+![](https://github.com/Wasif-Allvi/Home-Rent-Prediction/assets/45194832/46a847d5-a551-4c36-a002-11297af0f610)
 
 ![](https://github.com/Wasif-Allvi/Home-Rent-Prediction/assets/45194832/f7d5aaba-ed72-4123-ad41-91576a7b922d)
 ## Data After Preprocessing and their R-Square values
