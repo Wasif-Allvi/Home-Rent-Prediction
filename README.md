@@ -49,7 +49,9 @@ I invite you to explore our code, datasets, and detailed documentation to gain v
 
 I split the dataset into two parts. 90% of the data used of training purpose and 10% were used for testing. For sure the test data is intact and it is not touched before training.
 
-![](https://github.com/Wasif-Allvi/Home-Rent-Prediction/assets/45194832/9733ca21-01b8-4d17-8da1-4bc96bc64850)
+![](https://github.com/Wasif-Allvi/Home-Rent-Prediction/blob/4c7988447c7e14d9b54f0fabbec870e13d0e8290/results/exploratory_data_analysis/before%20preprocessing/data_exploration_before_preprocessing.png)
+
+
 
 The variable "ocean_proximity" is not present here because it doesn't contain any numerical value. I has only 5 non-numerical values - <1H Ocean, INLAND, NEAR BAY, ISLAND, NEAR OCEAN.
 
