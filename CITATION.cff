@@ -1,0 +1,15 @@
+# This file is a citation file in CFF format.
+# It is used to provide citation information for the project.
+# The CFF format is a standard for describing citation metadata in a machine-readable way.
+
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: Home-Rent-Prediction
+version: "1.0.0"
+date-released: "2025-04-02"
+authors:
+  - given-names: Mustafa Wasif Allvi
+    email: wasif.allvi@uni-potsdam.de
+repository-code: 'https://github.com/Wasif-Allvi/Home-Rent-Prediction'
+license: MIT
